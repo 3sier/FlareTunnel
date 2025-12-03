@@ -1,0 +1,52 @@
+# ========================================
+# 📊 Analytics (Saves the most!)
+# ========================================
+google-analytics.com
+www.google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+stats.g.doubleclick.net
+doubleclick.net
+googletagmanager.com
+googletagservices.com
+facebook.com/tr
+connect.facebook.net
+graph.facebook.com
+px.ads.linkedin.com
+analytics.linkedin.com
+analytics.tiktok.com
+business.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
+hotjar.com
+static.hotjar.com
+script.hotjar.com
+api.mixpanel.com
+decide.mixpanel.com
+segment.com
+cdn.segment.com
+api.segment.io
+omtrdc.net
+adobedc.net
+demdex.net
+track.hubspot.com
+api.hubspot.com
+fullstory.com
+script.crazyegg.com
+js-agent.newrelic.com
+bam.nr-data.net
+datadoghq-browser-agent.com
+browser-intake-datadoghq.com
+sentry.io
+browser.sentry-cdn.com
+criteo.com
+taboola.com
+outbrain.com
+
+# ========================================
+# 🎨 Fonts
+# ========================================
+fonts.googleapis.com
+fonts.gstatic.com
+use.typekit.net
+use.fontawesome.com

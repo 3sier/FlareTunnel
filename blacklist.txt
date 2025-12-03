@@ -1,0 +1,254 @@
+# FlareTunnel Blacklist - Full Version 🔥
+# Save Worker Requests! 💰
+# Each line = one pattern. Lines with # = comments
+# Patterns checked against: hostname, path, extension, full URL
+
+# ========================================
+# 📊 Analytics & Tracking (Saves a lot!)
+# ========================================
+google-analytics.com
+googletagmanager.com
+analytics.google.com
+doubleclick.net
+stats.g.doubleclick.net
+facebook.com/tr
+connect.facebook.net
+hotjar.com
+static.hotjar.com
+mixpanel.com
+cdn.mxpnl.com
+segment.com
+cdn.segment.com
+amplitude.com
+heap.io
+fullstory.com
+logrocket.com
+logrocket.io
+newrelic.com
+js-agent.newrelic.com
+quantcast.com
+sentry.io
+sentry-cdn.com
+clarity.ms
+datadoghq.com
+pendo.io
+mouseflow.com
+crazyegg.com
+optimizely.com
+kissmetrics.com
+chartbeat.com
+parsely.com
+omniconvert.com
+
+# ========================================
+# 📢 Advertising & Marketing
+# ========================================
+googlesyndication.com
+googleadservices.com
+adservice.google.com
+adnxs.com
+ads.yahoo.com
+advertising.com
+adsystem.com
+adroll.com
+criteo.com
+criteo.net
+outbrain.com
+taboola.com
+media.net
+yieldmo.com
+pubmatic.com
+rubiconproject.com
+openx.net
+indexww.com
+contextweb.com
+turn.com
+adform.net
+smartadserver.com
+serving-sys.com
+adsafeprotected.com
+doubleverify.com
+moatads.com
+
+# ========================================
+# 👥 Social Media Tracking
+# ========================================
+facebook.com/plugins
+twitter.com/widgets
+platform.twitter.com
+linkedin.com/widgets
+platform.linkedin.com
+instagram.com/embed
+pinterest.com/widgets
+snapchat.com/widgets
+tiktok.com/embed
+reddit.com/static
+
+# ========================================
+# 🖼️ Image Formats (Saves a lot!)
+# ========================================
+.jpg
+.jpeg
+.png
+.gif
+.webp
+.ico
+.svg
+.bmp
+.tiff
+.avif
+.jfif
+
+# ========================================
+# 🎨 Fonts & CSS
+# ========================================
+.woff
+.woff2
+.ttf
+.eot
+.otf
+.css
+fonts.googleapis.com
+fonts.gstatic.com
+use.typekit.net
+cloud.typography.com
+
+# ========================================
+# 📦 JavaScript & Maps
+# ========================================
+.js
+.map
+.min.js
+.bundle.js
+
+# ========================================
+# 🎬 Media Files (Video/Audio)
+# ========================================
+.mp4
+.webm
+.ogg
+.mp3
+.wav
+.m4a
+.flac
+.aac
+
+# ========================================
+# 📄 Documents & Archives
+# ========================================
+.pdf
+.zip
+.rar
+.7z
+.tar
+.gz
+.doc
+.docx
+.xls
+.xlsx
+.ppt
+.pptx
+
+# ========================================
+# 🎯 Common Tracking Paths
+# ========================================
+/pixel
+/pixel.gif
+/track
+/tracking
+/analytics
+/beacon
+/log
+/collect
+/event
+/events
+/telemetry
+/metrics
+/stats
+/ping
+/heartbeat
+/_ga
+/_gat
+/_gid
+/gtag
+/fbevents
+/tr.gif
+/impression
+/view
+/click
+
+# ========================================
+# 🌐 CDN & Static Assets
+# ========================================
+cdnjs.cloudflare.com/ajax/libs
+cdn.jsdelivr.net
+unpkg.com
+stackpath.bootstrapcdn.com
+maxcdn.bootstrapcdn.com
+ajax.googleapis.com/ajax/libs
+
+# ========================================
+# 🔌 Third-Party Widgets
+# ========================================
+disqus.com
+zopim.com
+livechatinc.com
+tawk.to
+intercom.io
+drift.com
+olark.com
+zendesk.com/embeddable
+helpscout.com
+uservoice.com
+
+# ========================================
+# 🎮 Gaming/App Analytics
+# ========================================
+unity3d.com/stats
+unityads.unity3d.com
+api.gameanalytics.com
+firebase.google.com
+
+# ========================================
+# 🛡️ Security/Bot Detection (Careful!)
+# ========================================
+# Note: Blocking these may break some websites
+# recaptcha.net
+# google.com/recaptcha
+# hcaptcha.com
+# cloudflare.com/cdn-cgi
+
+# ========================================
+# 🎯 Specific Trackers
+# ========================================
+bat.bing.com
+t.co
+bit.ly
+ow.ly
+goo.gl
+tinyurl.com
+
+# ========================================
+# 📱 Mobile Analytics
+# ========================================
+app-measurement.com
+firebaselogging.googleapis.com
+crashlytics.com
+fabric.io
+
+# ========================================
+# 💬 Chat Widgets
+# ========================================
+/chat.js
+/livechat
+/widget
+/embed.js
+
+# ========================================
+# ⚙️ Add your own patterns here:
+# ========================================
+# Examples:
+# example-tracker.com
+# .mp4
+# /my-custom-tracking-path
+

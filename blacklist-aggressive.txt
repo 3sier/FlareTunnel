@@ -1,0 +1,177 @@
+# FlareTunnel Blacklist - Aggressive Version 🔥💪
+# Blocks almost everything except HTML/API requests
+# Useful for automation tools (scrapers, bruteforce, etc.)
+# Website will look broken in browsers - but you'll save hundreds of thousands of Worker requests!
+
+# ========================================
+# 📊 Analytics & Tracking
+# ========================================
+google-analytics.com
+www.google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+stats.g.doubleclick.net
+doubleclick.net
+googletagmanager.com
+googletagservices.com
+facebook.com/tr
+connect.facebook.net
+graph.facebook.com
+px.ads.linkedin.com
+analytics.linkedin.com
+analytics.tiktok.com
+business.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
+hotjar.com
+static.hotjar.com
+script.hotjar.com
+api.mixpanel.com
+decide.mixpanel.com
+segment.com
+cdn.segment.com
+api.segment.io
+omtrdc.net
+adobedc.net
+demdex.net
+track.hubspot.com
+api.hubspot.com
+fullstory.com
+script.crazyegg.com
+js-agent.newrelic.com
+bam.nr-data.net
+datadoghq-browser-agent.com
+browser-intake-datadoghq.com
+sentry.io
+browser.sentry-cdn.com
+criteo.com
+taboola.com
+outbrain.com
+mixpanel.com
+amplitude.com
+heap.io
+logrocket.com
+newrelic.com
+quantcast.com
+clarity.ms
+datadoghq.com
+pendo.io
+mouseflow.com
+crazyegg.com
+optimizely.com
+kissmetrics.com
+chartbeat.com
+
+# ========================================
+# 📢 Advertising
+# ========================================
+googlesyndication.com
+googleadservices.com
+adnxs.com
+criteo.com
+outbrain.com
+taboola.com
+media.net
+pubmatic.com
+rubiconproject.com
+adroll.com
+adsystem.com
+
+# ========================================
+# 🖼️ ALL Images
+# ========================================
+.jpg
+.jpeg
+.png
+.gif
+.webp
+.ico
+.svg
+.bmp
+.tiff
+.avif
+
+# ========================================
+# 🎨 ALL CSS & Fonts
+# ========================================
+.css
+.woff
+.woff2
+.ttf
+.eot
+.otf
+fonts.googleapis.com
+fonts.gstatic.com
+
+# ========================================
+# 📦 ALL JavaScript
+# ========================================
+.js
+.map
+.min.js
+.bundle.js
+ajax.googleapis.com
+cdnjs.cloudflare.com
+cdn.jsdelivr.net
+unpkg.com
+
+# ========================================
+# 🎬 ALL Media
+# ========================================
+.mp4
+.webm
+.ogg
+.mp3
+.wav
+.m4a
+
+# ========================================
+# 📄 Documents
+# ========================================
+.pdf
+.zip
+.rar
+.doc
+.docx
+.xls
+.xlsx
+
+# ========================================
+# 👥 Social Media
+# ========================================
+facebook.com/plugins
+twitter.com/widgets
+platform.twitter.com
+linkedin.com/widgets
+instagram.com/embed
+pinterest.com
+tiktok.com/embed
+
+# ========================================
+# 🔌 ALL Widgets
+# ========================================
+disqus.com
+livechatinc.com
+tawk.to
+intercom.io
+drift.com
+zendesk.com
+/chat
+/livechat
+/widget
+
+# ========================================
+# 🎯 Tracking Paths
+# ========================================
+/pixel
+/track
+/analytics
+/beacon
+/log
+/collect
+/event
+/_ga
+/_gat
+/gtag
+/impression
+
